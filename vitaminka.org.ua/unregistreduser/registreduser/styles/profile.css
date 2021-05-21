@@ -1,0 +1,440 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+.drai{
+    margin-left: 50px;
+  
+}
+main{
+    background-color: #d8f1f1;
+}
+.btn8{
+    background-color:#fdc6a1 ;
+    border: 1px solid #fdc6a1;
+    color: white;
+}
+.fs{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 23px;
+    margin-left: 50px;
+}
+.headlist{
+  padding: 10px;
+    margin-right: 50px;
+    box-shadow: 2px 2px 12px rgb(0 0 0 / 20%);
+    background-color:#fff3eb;
+    margin-left: 346px;
+}
+body{
+    overflow-x: hidden;
+    width: 100% !important;
+}
+.h2cabinet{
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 35px;
+padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+/** USER PROFILE STARTED **/
+.user-profile-box {
+    background: #fbfbfb;
+    margin: 0 auto 50px;
+}
+
+.user-page .heading {
+    margin-bottom: 25px;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.user-profile-box .header {
+    padding: 30px 20px 120px;
+    text-align: center;
+    position: relative;
+    border: none;
+    margin: 0;
+    background: rgba(0, 0, 0, 0.04) url(http://placehold.it/350x214) top left repeat;
+    background-size: cover;
+    color: #efefef;
+}
+
+.user-profile-box .header h2 {
+    margin: 0 0 8px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.user-profile-box .header h4 {
+    font-size: 17px;
+    color: #fff;
+    font-weight: 300;
+}
+
+.user-profile-box .detail {
+    padding-top: 100px;
+}
+
+.user-profile-box .profile-img {
+    border-radius: 50%;
+    background-clip: padding-box;
+    border: 5px solid #fff;
+    bottom: -75px;
+    float: left;
+    height: 160px;
+    width: 160px;
+    left: 50%;
+    margin-left: -75px;
+    position: absolute;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.10), 0 3px 3px 0 rgba(0, 0, 0, 0.10);
+}
+
+.user-profile-box .detail ul li .active {
+    color: #fff;
+    border-bottom: none;
+}
+
+.user-profile-box .detail ul li a {
+    border-bottom: 1px solid #e0dfdf;
+    padding: 12px 20px;
+    display: block;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    color: #535353;
+}
+
+.user-profile-box .detail ul li a i {
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+.submit-property{
+    overflow: hidden;
+}
+
+.submit-property .form-check label {
+    display: inline-block;
+    position: relative;
+    padding-left: 10px;
+}
+
+.submit-property  .form-group label, .checkbox label {
+    font-size: 15px;
+    font-weight: 400;
+    color: #535353;
+    font-family: 'Roboto', sans-serif;
+    text-transform: inherit;
+}
+
+.submit-property .form-check label::before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 0;
+    margin-left: -20px;
+    border: 2px solid #cccccc;
+    border-radius: 0px;
+    background-color: #fff;
+    -webkit-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+    -o-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+    transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+/** USER PROFILE STARTED **/
+.user-profile-box {
+    background: #fbfbfb;
+    margin: 0 auto 50px;
+}
+
+.user-page .heading {
+    margin-bottom: 25px;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.user-profile-box .header {
+    padding: 30px 20px 120px;
+    text-align: center;
+    position: relative;
+    border: none;
+    margin: 0;
+    background: rgba(0, 0, 0, 0.04) url(http://placehold.it/350x214) top left repeat;
+    background-size: cover;
+    color: #efefef;
+}
+
+.user-profile-box .header h2 {
+    margin: 0 0 8px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.user-profile-box .header h4 {
+    font-size: 17px;
+    color: #fff;
+    font-weight: 300;
+}
+
+.user-profile-box .detail {
+    padding-top: 100px;
+}
+
+.user-profile-box .profile-img {
+    border-radius: 50%;
+    background-clip: padding-box;
+    border: 5px solid #fff;
+    bottom: -75px;
+    float: left;
+    height: 160px;
+    width: 160px;
+    left: 50%;
+    margin-left: -75px;
+    position: absolute;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.10), 0 3px 3px 0 rgba(0, 0, 0, 0.10);
+}
+
+.user-profile-box .detail ul li .active {
+    color: #fff;
+    border-bottom: none;
+}
+
+.user-profile-box .detail ul li a {
+    border-bottom: 1px solid #e0dfdf;
+    padding: 12px 20px;
+    display: block;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    color: #535353;
+}
+
+.user-profile-box .detail ul li a i {
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+.submit-property{
+    overflow: hidden;
+}
+
+.submit-property .form-check label {
+    display: inline-block;
+    position: relative;
+    padding-left: 10px;
+}
+
+.submit-property  .form-group label, .checkbox label {
+    font-size: 15px;
+    font-weight: 400;
+    color: #535353;
+    font-family: 'Roboto', sans-serif;
+    text-transform: inherit;
+}
+
+.submit-property .form-check label::before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 0;
+    margin-left: -20px;
+    border: 2px solid #cccccc;
+    border-radius: 0px;
+    background-color: #fff;
+    -webkit-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+    -o-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+    transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+/** Submit property  STARTED **/
+.submit-property .contact-2 .form-control {
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 14px;
+    outline: 0;
+    color: #545454!important;
+    height: 45px;
+    border-radius: 3px;
+    background: #fff!important;
+    border: 1px solid #dbdbdb;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .06);
+}
+
+.submit-property .contact-2 textarea {
+    min-height: 150px;
+}
+
+.submit-property .search-area .form-control:focus {
+    color: #f6f6f6;
+    background-color: #fff;
+    border: 1px solid #e8e8e8 !important;
+}
+
+.submit-property .contact-2 .form-control:focus {
+    background-color: #fff!important;
+    border: 1px solid #dbdbdb;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .06);
+    outline: 0;
+}
+
+.notification-box {
+    padding: 25px;
+    color: #2e86b2;
+    background-color: #bae8ff;
+}
+
+.notification-box p {
+    margin-bottom: 0;
+}
+
+.property-gallery {
+    position: relative;
+    border: 2px dashed #d0d0d0;
+    border-radius: 3px;
+    background: #fcfcfc;
+    transition: all .3s linear;
+    margin-bottom: 15px;
+    display: inline-block;
+    width: 100%;
+    min-height: 150px;
+    padding: 20px;
+}
+
+/** Manaage table start **/
+.manage-table .listing-photoo {
+    width: 19%;
+}
+
+.manage-table .listing-photoo img {
+    width: 100%;
+    border-radius: 4px;
+}
+
+.manage-table .title-container {
+    width: 40%;
+    padding: 25px 0 0 20px;
+}
+
+.manage-table .title-container h5 {
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.manage-table .title-container p {
+    font-size: 15px;
+    margin-bottom: 0;
+}
+
+.manage-table .title-container h6{
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 7px;
+}
+
+.manage-table .title-container h6 span{
+    font-weight: 500;
+}
+
+.manage-table .action {
+    width: 13%;
+    padding-left: 0;
+}
+
+.manage-table .date {
+    width: 13%;
+    color: #535353;
+    padding-left: 0;
+    font-size: 15px;
+}
+
+.manage-table .action ul li a {
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    color: #535353;
+}
+
+.manage-table .action ul li a i {
+    margin-right: 2px;
+}
+
+.manage-table .action ul li .dlt{
+    background: #f5f6f7;
+    padding: 5px 12px;
+    border-radius: 3px;
+    font-size: 13px;
+}
+
+.manage-table .title-container h5 a:hover {
+    color: #4a4747;
+}
+
+.manage-table thead tr{
+    border-radius: 10px;
+    margin-bottom: 30px!important;
+    border-bottom: transparent;
+    background: #fbfbfb;
+}
+
+.manage-table thead tr th:first-child {
+    padding-left: 20px;
+}
+
+.manage-table thead tr th{
+    padding: 10px 0;
+    font-weight: 400;
+    color: #535353;
+    border-right: none;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.manage-table tbody tr td{
+    padding: 25px 0 0 0;
+}
+
+/** INTRO SECTION  STARTED **/
+.intro-section {
+    padding: 30px 0;
+}
+
+.intro-section .logos{
+    display: none;
+}
+
+.intro-section{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.intro-section img{
+    margin-right: 20px;
+}
+
+.intro-section .btn8 {
+    background: #fff;
+    float: right;
+}
+
+.intro-section .btn8:hover {
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.10), 0 3px 3px 0 rgba(0, 0, 0, 0.20);
+}
+
+.user-profile-box .detail ul li .active {
+    background: #fdc6a1;
+}

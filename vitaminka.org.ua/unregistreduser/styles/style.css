@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+.drai{
+    margin-left: 50px;
+}
+
+body{
+    overflow-x: hidden;
+    width: 100% !important;
+}
+
+.headlist{
+    padding: 10px;
+  
+      box-shadow: 2px 2px 12px rgb(0 0 0 / 20%);
+      background-color:#c4edeea8;
+      margin-left: 320px;
+  }
+.fs{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+.pett{
+    margin-left: 250px !important; 
+    margin-top: 149px;
+    margin-right: 0 !important;
+}
+.dog{
+
+    margin-right: 200px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        width: 533px !important;
+        height: 525px !important;
+        z-index: 1;
+
+      
+}.logo{
+    background-color: #C4EDEE !important;
+    background-repeat: no-repeat;
+    background-size: 100% 100% !important;
+ /*   background-image: url("../img/back.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;*/
+}
+.butonmain{
+    color: white;
+    left: 131px;
+    width: 256px;
+    height: 49px;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    text-align: center !important;
+    background-color: black;
+    border-radius: 5px;
+ border-color: black;
+    margin-top: 20px;
+    padding-top: 12px;
+}
+.services{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 48px;
+}
+.buy{
+    color: black;
+    left: 131px;
+    width: 256px;
+    height: 49px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 20px;
+    background-color: white;
+    border-radius: 5px;
+ border-color: #343A40;
+    margin-top: 20px;
+    padding-top: 12px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+.endo{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 26px;
+    letter-spacing: 0.4px;
+    line-height: 38px;
+    padding-left: 270px;
+}
+.endo1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 26px;
+    letter-spacing: 0.4px;
+    line-height: 38px;
+    padding-left: 160px;
+}
+
+.endo2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 26px;
+    letter-spacing: 0.4px;
+    line-height: 38px;
+    padding-left: 40px;
+}
+.about{
+    background-image: url("../img/aboutback.png");
+    background-repeat: no-repeat;
+    background-size: 100% 788px;
+    height: 788px;
+    width: 100%;
+}
+.abouth1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 48px;
+    padding-top: 50px !important;
+}
+.pic{
+    transition: 1s;
+ 
+    overflow: hidden;
+
+}.pic:hover{
+    transform: scale(1.1); 
+}
+.lor{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.medh1{
+    margin-top: 70px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 48px;
+}
+.yl{
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.cont{
+    margin-top: 20px;
+}
+.foot{
+    background-color: #C4EDEE;
+    width: 100%;
+    height: 283px;
+    margin-top: 50px;
+}
+.licence{
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    padding-top: 80px;
+}
+.social{
+    padding-top: 60px;
+    padding-left: 100px;
+    justify-content:center;
+    margin-right: 85px;
+
+}
+.face{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.mail{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.teleg{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.twitter{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.botsocial{
+    position: fixed;
+    top: 90%;
+    right: 50px;
+    transform: translateY(-50%);
+}
+
